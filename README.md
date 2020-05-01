@@ -28,16 +28,18 @@ Require Software to build:
 
 Group members:
 
-Name: Sheikh Arafa Hossain Yafee
+Name: Sheikh Arafa Hossain Yafee, 
 Id: 18104052
 
-Name: Jannat Hossain Jothi
+Name: Jannat Hossain Jothi,
 Id: 18104024
 
-Name: Md. Momenul Haque
+Name: Md. Momenul Haque,
 Id: 18104050
 
-CSE 7th Batch
+Computer Science Engineering 7th Batch (Even).
+
+Bangladesh Army University of Engineering & Technology,Qadirabad Cantonment, Natore, Bangladesh.
 
 I hope thats help you lot to learn java more and more. And whole project also contains ready project report and project proposal.
-Thanks In Advance.
+Thanks In Advance. 
