@@ -20,7 +20,7 @@ Main project contains:
 12. Download transaction report.
 
 
-Some  ui/ux design provide to display made more professional project. The project also need to more develop as a research contain.
+Some  ui/ux design provide more professional and advance project. The project also need to more develop as a research contain.
 Require Software to build:
 1. Netbeans IDE
 2. Xampp controller.
